@@ -1,4 +1,4 @@
-0,17,Rue Cernuschi,Paris,75017,France
+0,17,Rue de l'aeroport,Paris,75000,France
 1,10,Rue de la gare,Bois d'Arcy,77000,France
 2,5,Avenue des Lilas,Lyon,69002,France
 3,28,Rue de la Paix,Marseille,13001,France
@@ -57,7 +57,7 @@
 58,21,rue douteuse,Nanterre,75007,France
 59,21,rue très douteuse,Nanterre,75007,France
 60,20,rue de la Gare,Marseille,13000,France
-61,15,rue Cernuschi,Paris,75017,France
+61,15,rue Lafayette,Paris,75000 France
 60,20,rue de la Gare,Marseille,13000,France
-61,15,rue Cernuschi,Paris,75017,France
-0,17,Rue Cernuschi,Paris,75017,France
+61,15,rue Lafayette,Paris,75000,France
+0,17,Rue de l'Aeroport,Paris,75000,France
